@@ -6,8 +6,9 @@ St. Thomas More Catholic Church wanted a new large-scale Nativity scene to be di
 ## Results
 The church was elated with the project, and they to this day display my Nativity shelter every Christmas season.
 ## Files
-- 'pictures of eagle project-compressed.pdf': Thorough image documentation of the project work day, demonstrating the intricacies of creating the project
+- 'pictures of eagle project-compressed.pdf': Thorough image documentation of the project work day, demonstrating the intricacies of creating the project.
 - 'NAT-02.pdf': CAD mockup of the finalized Nativity shelter design, used for reference during construction.
+- 'PeterNativityShed.pdf': Early draft I created of the shelter, which would eventually be finalized.
 ## Skills Demonstrated
 -Project Management: planning, scheduling, coordinating resources, and managing a project from proposal through to completion
 -Leadership: directing project and motivating volunteers
